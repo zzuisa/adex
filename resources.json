@@ -1,0 +1,342 @@
+{
+    "2024年加班申请.xlsx": [
+        "https://onebox.huawei.com/v/2809b3987797ef63749bbbf7966297b4?type=1&sheet=%E6%9C%AA%E6%8A%A5%E5%8A%A0%E7%8F%AD&time=1724935202172",
+        "url"
+    ],
+    "2024休假表.xlsx": [
+        "https://onebox.huawei.com/v/83100b1192ededdb652cd02bf94abb51?type=1",
+        "url"
+    ],
+    "休假管理": [
+        "https://www.starling.huawei.com/web/microAppCenter/#/app/sheet/7fb08fc8d8354da953284b79509aeb8d/undefined/180eb117aa0fd5d19a6e51ef1acaef64/undefined?tenantId=WeGo_ACN_EU&appName=%E4%BC%91%E5%81%87%E7%AE%A1%E7%90%86&worksheetName=%E4%BC%91%E5%81%87%E7%94%B3%E8%AF%B7&status=running&visitRandom=v24",
+        "url"
+    ],
+    "事件单登记": [
+        "http://ops.gaia.huawei.com/events/overseas_index/",
+        "url"
+    ],
+    "打卡": [
+        "http://ops.gaia.huawei.com/access/index/",
+        "url"
+    ],
+    "堡垒机（新）": [
+        "https://console-kwe.his.huawei.com/osaConsole/#/secureAccess?activeName=4&app_id=&regionValue=dggGeneral",
+        "url"
+    ],
+    "欧洲运维": [
+        "https://de.cbgwatcher.c.huawei.com/index.html",
+        "url"
+    ],
+    "Akamai": [
+        "https://control.akamai.com/apps/auth/#/login",
+        "url"
+    ],
+    "堡垒机": [
+        "https://osas-kwe.console.his.huawei.com/osaConsole/#/secureAccess?isuser=true&app_id=com.huawei.user.zWX1330882",
+        "url"
+    ],
+    "监控：西欧巡检": [
+        "https://de.cbgwatcher.c.huawei.com/ctmt2-frontend/index.html",
+        "url"
+    ],
+    "监控：西欧调试": [
+        "https://de.cbgwatcher.c.huawei.com/kibana/app/dev_tools#/console",
+        "url"
+    ],
+    "监控：西欧看板": [
+        "https://de.cbgwatcher.c.huawei.com/kibana/app/home#/",
+        "url"
+    ],
+    "德电云：VMALL/00000000001000016248": [
+        "https://auth.otc.t-systems.com/authui/login?id=OTC-EU-DE-00000000001000016248#/login",
+        "url"
+    ],
+    "德电云：MHW/00000000001000022756": [
+        "https://auth.otc.t-systems.com/authui/login?id=OTC-EU-DE-00000000001000022756#/login",
+        "url"
+    ],
+    "祥云：西欧": [
+        "https://console-dre.wisedevops.huawei.com/",
+        "url"
+    ],
+    "UOM：西欧": [
+        "https://uom-eu.om.vmall.com/index.html#/home/overview",
+        "url"
+    ],
+    "运维平台：西欧Apollo": [
+        "https://vmalleuyw.vmall.com/apollo/config.html#!#%2Fappid=vmall_umc_rpc_send&env=PRO&cluster=AZ1",
+        "url"
+    ],
+    "运维平台：西欧": [
+        "https://vmalleuyw.vmall.com/index.do",
+        "url"
+    ],
+    "Eureka: AZ1": [
+        "https://de.cbgwatcher.c.huawei.com/eureka/greyhttps-az1/",
+        "url"
+    ],
+    "Eureka: AZ2": [
+        "https://de.cbgwatcher.c.huawei.com/eureka/greyhttps-az2/",
+        "url"
+    ],
+    "de-eureka 切换记录-生产": [
+        "https://onebox.huawei.com/v/3077992938a0499e6569a3bf5c8b9e3b?type=0",
+        "url"
+    ],
+    "UOIP": [
+        "https://de.gaia.huawei.com/uoip_console_gray/web/index.html#/application-management",
+        "url"
+    ],
+    "啄木鸟告警（APM）": [
+        "https://gaia.huawei.com/msc/gateway/api/pinpoint-web/main/prod-sg-trinity-ecommerce@SPRING_BOOT/5m/2024-07-02-16-00-02",
+        "url"
+    ],
+    "新加坡运维": [
+        "https://sg.cbgwatcher.c.huawei.com/index.html",
+        "url"
+    ],
+    "监控：新加坡巡检": [
+        "https://sg.cbgwatcher.c.huawei.com/ctmt2-frontend/index.html",
+        "url"
+    ],
+    "监控：新加坡调试": [
+        "https://sg.cbgwatcher.c.huawei.com/app/dev_tools#/console",
+        "url"
+    ],
+    "监控：新加坡看板": [
+        "https://sg.cbgwatcher.c.huawei.com/app/home#/",
+        "url"
+    ],
+    "祥云：亚非拉": [
+        "https://console-dra.wisedevops.huawei.com/microApp/iam?virtualSiteId=aaa_product_default#/position/list",
+        "url"
+    ],
+    "华为云：新加坡": [
+        "https://console.his.huawei.com/iamCloudProxy/#/unifiedlogin/unifiedlonging.html",
+        "url"
+    ],
+    "统一运营管理台：UOM": [
+        "https://uom-sg.om.vmall.com/index.html#/home/overview",
+        "url"
+    ],
+    "运维平台：新加坡Apollo": [
+        "https://vmallhwsywapollo194.vmall.com/apollo/index.html",
+        "url"
+    ],
+    "新加坡vmall资源列表 实时更新.xlsx": [
+        "https://onebox.huawei.com/v/d4b2b2b092d3bf08ea4fc9904eceb121?type=0",
+        "url"
+    ],
+    "俄罗斯运维": [
+        "https://ru.cbgwatcher.c.huawei.com/index.html",
+        "url"
+    ],
+    "监控：俄罗斯巡检": [
+        "https://ru.cbgwatcher.c.huawei.com/ctmt2-frontend/index.html",
+        "url"
+    ],
+    "监控：俄罗斯调试": [
+        "https://ru.cbgwatcher.c.huawei.com/kibana/app/dev_tools#/console",
+        "url"
+    ],
+    "监控：俄罗斯看板": [
+        "https://ru.cbgwatcher.c.huawei.com/kibana/app/home#/",
+        "url"
+    ],
+    "华为云：俄罗斯 RU-VMALL-001": [
+        "https://auth-intl.huaweicloud.com/authui/login?id=RU-VMALL-001",
+        "url"
+    ],
+    "华为云：俄罗斯 cbgsre": [
+        "https://auth-intl.huaweicloud.com/authui/login?id=cbgsre",
+        "url"
+    ],
+    "华为云：俄罗斯 ccpc": [
+        "https://auth-intl.huaweicloud.com/authui/login?id=hwstaff_ruccpc",
+        "url"
+    ],
+    "祥云管理：俄罗斯": [
+        "https://console-drru.wisedevops.huawei.com/microApp/WiseEyeHostMgmtService/vms#/hostmgmt/ecs",
+        "url"
+    ],
+    "运维平台：俄罗斯Apollo": [
+        "https://vmallruapl.vmall.com/apollo/",
+        "url"
+    ],
+    "UOM：俄罗斯": [
+        "https://uom-ru.om.vmall.com/index.html#/home/overview",
+        "url"
+    ],
+    "部署服务(iac3.0) 俄罗斯": [
+        "https://console-drru.wisedevops.huawei.com/microApp/WiseEye#/environment/service/environmentList",
+        "url"
+    ],
+    "俄罗斯灰度下单测试": [
+        "https://grey.consumer.huawei.com/ru/product/buy/?productId=18007580732138",
+        "url"
+    ],
+    "GaiaUOIP": [
+        "https://ru.gaia.huawei.com/uoip_console_gray/web/index.html#/application-management",
+        "url"
+    ],
+    "JSON filter plugin | Logstash Reference [8.14] | Elastic": [
+        "https://www.elastic.co/guide/en/logstash/current/plugins-filters-json.html",
+        "url"
+    ],
+    "Grok URI extract - Elastic Stack / Logstash - Discuss the Elastic Stack": [
+        "https://discuss.elastic.co/t/grok-uri-extract/54836",
+        "url"
+    ],
+    "Wiki: 05 新服务使用IAC部署前置动作（IAC2.0和IAC3.0）": [
+        "https://wiki.huawei.com/domains/366/wiki/4599/WIKI202401162770562",
+        "url"
+    ],
+    "Wiki: 2023年安全扫描加固指导及说明": [
+        "https://wiki.huawei.com/domains/2511/wiki/105640/WIKI20230307842444",
+        "url"
+    ],
+    "MyHUAWEI-Service-Framework - Wiki": [
+        "https://codehub-g.huawei.com/MyHUAWEI-Framework/MyHUAWEI-Service-Framework/wiki/view/doc/732087?categoryId=8&sn=WIKI202307011421120",
+        "url"
+    ],
+    "Wiki: vmall报错码": [
+        "https://wiki.huawei.com/domains/45758/wiki/100688/WIKI202403053039994",
+        "url"
+    ],
+    "企业搜索RAG知识地图全览 - 企业场景AI社区 - 3MS知识管理社区": [
+        "https://3ms.huawei.com/km/groups/3950972/blogs/details/15477780?ctype=-1",
+        "url"
+    ],
+    "Wiki: 俄罗斯cbgwatcher logstash 从自建迁移到云上SaaS": [
+        "https://wiki.huawei.com/domains/45758/wiki/59583/WIKI202402122924394?title=%E9%85%8D%E7%BD%AElogstash%E7%8A%B6%E6%80%81%E7%9B%91%E6%8E%A7%E5%88%B0kibana-stack-monitoring%E7%9C%8B%E6%9D%BF",
+        "url"
+    ],
+    "Google - Site Reliability Engineering": [
+        "https://sre.google/sre-book/release-engineering/",
+        "url"
+    ],
+    "Chapter 16 - Canarying Releases, Google SRE Book": [
+        "https://sre.google/workbook/canarying-releases/",
+        "url"
+    ],
+    "[PAYU] Error Codes": [
+        "https://docs.payu.in/reference/error-codes",
+        "url"
+    ],
+    "配置中心原理和选型：Disconf、Apollo、Spring Cloud Config 和 Nacos-阿里云开发者社区": [
+        "https://developer.aliyun.com/article/942351",
+        "url"
+    ],
+    "基于冷启动+热循环的微调训练语料构建方法（以代码检视场景为例）": [
+        "https://jx.huawei.com/community/comgroup/postsDetails?postId=5f3c5f09a4b2420b91c257c0b6351ffc&noTop=true&type=freePost",
+        "url"
+    ],
+    "【回顾制作中】场景AI 产品新特性发布会-8月★分享嘉宾：梁嘉成&amp;丁叶丹虹&amp;毕旭&amp;万珪琰&amp;万琴&amp;易虹★【YES AI DO丨AI 大讲堂 第9期】 - 企业场景AI社区 - 3MS知识管理社区": [
+        "https://3ms.huawei.com/km/groups/3950972/blogs/details/15772750?ctype=-1",
+        "url"
+    ],
+    "Wiki: 名词释义": [
+        "https://wiki.huawei.com/domains/6352/wiki/20236/WIKI20230225799269",
+        "url"
+    ],
+    "如何高效高质的组织一场大模型训战？——AI辅助内部业务变革项目训战优秀实践总结 - 严丰的博客": [
+        "https://3ms.huawei.com/km/blogs/details/15800729",
+        "url"
+    ],
+    "SOP": [
+        "https://wiki.huawei.com/domains/45758/wiki/100688/WIKI202404263416871",
+        "url"
+    ],
+    "【VMALL】【MMS】【问题记录】优惠券批次重复 - CBG IT 海外团队 - 3MS知识管理社区": [
+        "https://3ms.huawei.com/km/groups/3951784/blogs/details/15814802",
+        "url"
+    ],
+    "vite和vue3 中的vite.config.js配置build后引入静态文件为相对路径_vite.config.js build-CSDN博客": [
+        "https://blog.csdn.net/lizhihua0625/article/details/132489860",
+        "url"
+    ],
+    "Python: 调试运行中进程的几种方法（总结） - mozillazg&#39;s Blog": [
+        "https://mozillazg.com/2018/07/python-some-ways-to-debug-running-process.html",
+        "url"
+    ],
+    "Wiki: jumper跳板机简易指南": [
+        "https://wiki.huawei.com/domains/45758/wiki/57947/WIKI202405133527525",
+        "url"
+    ],
+    "《软件设计的哲学》": [
+        "https://cactus-proj.github.io/A-Philosophy-of-Software-Design-zh/",
+        "url"
+    ],
+    "全局域名查询": [
+        "https://console-kwe.his.huawei.com/ens/#/hisdns/DomainGlobalSearch?app_id=com.huawei.cbg&currEnv=pro_live_01",
+        "url"
+    ],
+    "Kubernetes(K8S) Deployment 拉取阿里云镜像部署 - VipSoft - 博客园": [
+        "https://www.cnblogs.com/vipsoft/p/16805556.html",
+        "url"
+    ],
+    "快速部署应用到阿里云Kubernetes - Jinhean": [
+        "https://hellwen.github.io/post/deploy-aliyun-k8s-with-coderun/",
+        "url"
+    ],
+    "WebCenter": [
+        "https://webcenter.sbs-software.de/Pages/DokuCenter.aspx",
+        "url"
+    ],
+    "iauth": [
+        "https://w3.huawei.com/iauth/#/",
+        "url"
+    ],
+    "变更电子流": [
+        "https://wisedevops.huawei.com/app/psi/release",
+        "url"
+    ],
+    "24.7.300版本发布清单&amp;升级清单.xlsx": [
+        "https://onebox.huawei.com/v/719589aa15a60291a1f9b91d68bff859?type=0",
+        "url"
+    ],
+    "24.7.300版本发布清单": [
+        "https://onebox.huawei.com/v/719589aa15a60291a1f9b91d68bff859",
+        "url"
+    ],
+    "云龙版本下载": [
+        "https://clouddragon.huawei.com/artifact/project/g06312b3016b7417ebe427a1e6d2eec9e/services?artifactid=6f5ee14b22024d029cb7679b447d6d5a&version=1.24.9.300",
+        "url"
+    ],
+    "变更评审例会": [
+        "https://w3.huawei.com/emeeting/#/",
+        "url"
+    ],
+    "HDFS": [
+        "https://159.138.203.174:9022/component/HDFS/NameNode/4/explorer.html#/",
+        "url"
+    ],
+    "IES-MRS-Manager": [
+        "https://159.138.203.174:9022/mrsmanager/?lang=zh-cn",
+        "url"
+    ],
+    "cbg-flask-smn-proxy - 文件": [
+        "https://codehub-g.huawei.com/gWX1133219/cbg-flask-smn-proxy/files?ref=master",
+        "url"
+    ],
+    "IIFE for Complex Initialization - C++ Stories": [
+        "https://www.cppstories.com/2016/11/iife-for-complex-initialization/",
+        "url"
+    ],
+    "AI辅助内部业务": [
+        "https://ilearning.huawei.com/edx/subsite/page1/651076049492328448?cataId=651080357390663680",
+        "url"
+    ],
+    "Jumper": [
+        "https://rnd-jumper-germany.inhuawei.com/#/",
+        "url"
+    ],
+    "%E5%8F%98%E6%9B%B4%E9%80%9A%E5%91%8A%E8%84%9A%E6%9C%AC.js": [
+        "file:///D:/works/helm-kubernetes-repo/de-vmall/changes/EU-1.24.9.300-v2/%E5%8F%98%E6%9B%B4%E9%80%9A%E5%91%8A%E8%84%9A%E6%9C%AC.js",
+        "url"
+    ],
+    "test": {
+        "path": "https://google.com",
+        "type": "url"
+    }
+}
