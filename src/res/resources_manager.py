@@ -57,3 +57,14 @@ def sync_resources():
         print(f"资源文件已从 {CURRENT_RESOURCE_FILE} 同步到 {RESOURCE_FILE}")
     else:
         print(f"没有找到当前目录下的 resource.json: {CURRENT_RESOURCE_FILE}")
+
+
+def load_resources():
+    """从 JSON 文件加载资源配置"""
+    try:
+        with open(RESOURCE_FILE, "r", encoding="utf-8") as file:
+            return json.load(file)
+    except FileNotFoundError:
+        return {}  # 如果文件不存在，返回空字典
+    except json.JSONDecodeError:
+        return {}  # 如果文件内容格式不正确，返回空字典
